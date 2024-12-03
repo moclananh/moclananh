@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mla from 🇻🇳</h1>
+<h1 align="center">Hi 👋, I'm Hoai Thanh from <img alt="vn" width="35" src="https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Vietnam-Animated.gif"></h1>
 <h3 align="center">Back-end Developer</h3>
 <i align="center">Possess over 2 years of experience in software development, specializing in back-end development 
 with .NET technologies (C#, ASP.NET Core, Entity Framework) and solid expertise in object-oriented 

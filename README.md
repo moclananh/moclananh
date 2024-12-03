@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm moclananhh</h1>
 <h3 align="center">Back-end Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moclananh&label=Profile%20views&color=0e75b6&style=flat" alt="moclananh" /> </p>
+<i align="center">Possess over 2 years of experience in software development, specializing in back-end development 
+with .NET technologies (C#, ASP.NET Core, Entity Framework) and solid expertise in object-oriented 
+design and performance optimization. Skilled in version control systems (Git), database management (SQL 
+Server, MongoDB), and cloud deployment (Azure). Proficient with tools like Visual Studio, VSCode, and 
+Docker for application development. Demonstrated ability to work effectively in Agile environments, 
+delivering high-quality solutions with attention to detail. Strong communicator and a collaborative team 
+player, always eager to adopt new technologies and practices</i>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

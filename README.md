@@ -16,7 +16,7 @@ player, always eager to adopt new technologies and practices</i>
 
 - 📫 How to reach me **mlananhh.dev@gmail.com**
 
-- 📄 Know about my experiences [https://static.topcv.vn/topcv-cv-uploads/d8ca18bd7f1bd417c6a7493e071fcca1.pdf#toolbar=0&navpanes=0&scrollbar=0](https://static.topcv.vn/topcv-cv-uploads/d8ca18bd7f1bd417c6a7493e071fcca1.pdf#toolbar=0&navpanes=0&scrollbar=0)
+- 📄 Know about my experiences [https://static.topcv.vn/topcv-cv-uploads/63e79a33c9288155eb2f3572d802b2e7.pdf](https://static.topcv.vn/topcv-cv-uploads/63e79a33c9288155eb2f3572d802b2e7.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

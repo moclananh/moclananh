@@ -16,7 +16,7 @@ player, always eager to adopt new technologies and practices</i>
 
 - 📫 How to reach me **mlananhh.dev@gmail.com**
 
-- 📄 Know about my experiences [MyResume](https://byvn.net/qmmD)
+- 📄 Know about my experiences [MyResume](https://byvn.net/4EMD) (Last updated: 01/2025)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

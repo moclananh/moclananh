@@ -16,7 +16,7 @@ player, always eager to adopt new technologies and practices</i>
 
 - 📫 How to reach me **mlananhh.dev@gmail.com**
 
-- 📄 Know about my experiences [MyResume](https://byvn.net/4EMD) (Last updated: 01/2025)
+- 📄 Know about my experiences [MyResume]([https://byvn.net/4EMD](https://s3.topcv.vn/data-cvs/topcv-cv-uploads/09385b702e47ebeb3c8db1845b17e95d.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=s3-tp-topcv%2F20260422%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260422T115609Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=373d4ad6e17063f7b3f1ea6cc266e1fa2e57cc23068530887959586db3a89f3f)) (Last updated: 04/2026)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

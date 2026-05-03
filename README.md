@@ -16,7 +16,7 @@ player, always eager to adopt new technologies and practices</i>
 
 - 📫 How to reach me **mlananhh.dev@gmail.com**
 
-- 📄 Know about my experiences [MY CV HERE](https://drive.google.com/file/d/1n_c-3Qrl-1QqqfMGtzuPalKSCY0LhbvC/view?usp=drive_link) (Last updated: 05/2026)
+- 📄 Know about my experiences [MY CV HERE](https://drive.google.com/file/d/1I5PJD6WrntQdJ5pSWh6gZE792BnbrADJ/view?usp=sharing) (Last updated: 05/2026)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
